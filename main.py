@@ -186,7 +186,7 @@ end_label.pack(pady=(0, 10))
 
 # Footer label
 footer_label = Label(root,
-    text="Developed by Team 142",
+    text="Developed by SIC-25-26-Team 142",
     font=("Arial", 12, "italic"),
     bg="#f0f8ff",
     fg="#636e72")
